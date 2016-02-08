@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+.DS_Store
+sample1.csv
+sample2.csv
+test.csv
+train.csv
+train.gz
+test.gz
